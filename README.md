@@ -1,5 +1,11 @@
 # Palindrome-Checker-App
-//objective: usecase1
-//flow of project: display name and version of app
-/procedure: create function useCase1(). add code to print name and version
-//topics covered: branch, commit, push, pull
+//objective: usecase2
+//flow of project 
+check if word is palindrome using hard coded method
+/procedure
+1) get user input
+2) convert string to character array
+3) check if first half = 2nd half
+4) if they are equal, it is a palindrome, and vice versa
+//topics covered
+branch, commit, push, pull
